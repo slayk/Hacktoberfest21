@@ -112,6 +112,7 @@ word_list = [
 'kiwifruit', 
 'klutz', 
 'knapsack', 
+'laptop',
 'larynx', 
 'lengths', 
 'lucky', 
