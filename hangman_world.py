@@ -45,6 +45,7 @@ word_list = [
 'dwarves', 
 'embezzle', 
 'equip', 
+'elephant',
 'espionage', 
 'euouae', 
 'exodus', 
