@@ -228,6 +228,37 @@ word_list = [
 'structures',
 'algorithms',
 'memory',
-'website'
-'github'
+'website',
+'github',
+  'security',
+  'confidentiality'
+  'availability'
+  'intruder'
+  'cinema'
+  'moodle'
+  'doodle'
+  'lamp',
+  'lamb',
+  'stamp',
+  'kerberos',
+  'passport',
+  'penetration',
+  'kali',
+  'parrot',
+  'windows',
+  'linux',
+  'commit'
+  'change'
+  'add',
+  'branch',
+  'repo',
+  'ocean',
+  'fork',
+  'issue',
+  'push',
+  'pull',
+  'request'
+  'feed',
+  'post',
+  'end'
 ]
