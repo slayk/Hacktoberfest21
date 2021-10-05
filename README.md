@@ -11,7 +11,7 @@ A month-long celebration from October 1st - 31st sponsored by Digital Ocean and 
 
 https://hacktoberfest.digitalocean.com/
 
----
+----
 
 **⚠️ What can You contribute ⚠️**
 
@@ -22,14 +22,14 @@ https://hacktoberfest.digitalocean.com/
 - Follow me on Github 
 ![GitHub followers](https://img.shields.io/github/followers/slayk?style=social)
 
----
+----
 
 **☄️ Process are as follows ☄️**
 
 - Login using github @ Hacktoberfest
 - Create four valid pull requests (PRs) between 1st - 31st October
 
----
+----
 
 **💫 How to Contribute to this repository 💫**
 
@@ -52,7 +52,7 @@ OR
       git add .
       git commit -m "Your commit Message"
 
-- Make a pull request.
+- Make a Pull Request(PR).
 - Star this repo.
 
 ---

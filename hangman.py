@@ -14,7 +14,7 @@ for _ in range(word_length):
     display += "_"
 
 while not end_of_game:
-    guess = input("Guess a letter: ").lower()
+    guess = input(" Guess a letter : ").lower()
 
     for position in range(word_length):
         letter = chosen_word[position]
@@ -25,7 +25,7 @@ while not end_of_game:
         print(hangman_art.stages[lives])
         lives-=1
         if lives < 0:
-            print(f"You lose! The word was {chosen_word}")
+            print(f" You lose! The word was {chosen_word} ")
             end_of_game = True
 
     if lives!=-1:
@@ -33,4 +33,4 @@ while not end_of_game:
 
     if "_" not in display:
         end_of_game = True
-        print("You win.")
+        print(" You win. ")
