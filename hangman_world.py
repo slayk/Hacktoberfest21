@@ -255,5 +255,8 @@ word_list = [
   'Internship',
   'Request',
   'Binding'
-  
+  'ambigue',
+  'acrophobia',
+  'atlas',
+  'door',
 ]
