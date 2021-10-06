@@ -5,7 +5,7 @@ import hangman_world
 print(hangman_art.logo)
 
 end_of_game = False
-chosen_word = random.choice(hangman_world.word_list)
+chosen_word = random.choice(hangman_world.word_list).lower()
 word_length = len(chosen_word)
 lives = 6
 
