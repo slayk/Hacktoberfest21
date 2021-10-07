@@ -48,7 +48,8 @@ word_list = [
 'elephant',
 'espionage', 
 'euouae', 
-'exodus', 
+'exodus',
+'excellent';
 'faking', 
 'fishhook', 
 'fixable', 
